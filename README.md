@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify]]()
+&nbsp; <br> []()
 
   </td>
   <td width="50%">
