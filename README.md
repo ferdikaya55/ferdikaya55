@@ -1,16 +1,13 @@
 <table width="100%"> 
   <tr>
-     <td width="50%">
+     <td width="100%">
 
 <br><p><b>Hi 👋 <br> I'm Ferdi.</b><br>🌱 I’m currently learning Android Development and C#.</p>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ferdikaya55/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailto:ferdi.kayaa@outlook.com)
   <img src="https://komarev.com/ghpvc/?username=ferdikaya55" alt="ferdikaya" /> </p>
 </p>
-  </td>
-    
-    
-  <td width="50%">
+  
       
 &nbsp; <br> 
 
