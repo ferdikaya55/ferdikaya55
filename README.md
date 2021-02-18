@@ -30,11 +30,10 @@
 
 <p align="left">
 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <br>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-<a href="#" target="_blank"> <img src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C#" width="40" height="40"/> </a> <br>
-<br>
+<a href="#" target="_blank"> <img src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C#" width="40" height="40"/> </a> 
 
 
 
