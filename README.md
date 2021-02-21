@@ -32,7 +32,9 @@
 <a href="#" target="_blank"> <img src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C#" width="40" height="40"/> </a> 
 
 
+<summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Ferdi Kaya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ferdikaya55&show_icons=true&hide_border=true" />
 
 
 
